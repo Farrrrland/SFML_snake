@@ -4,7 +4,7 @@ ans is based on source code from "https://github.com/jhpy1024/sfSnake"
 
 How to play
 
-1.	Run main.exe and follow the instructions to set up your own theme before you start the journey.
+1.	Run main.exe (make sure you have sfml2.5 set correctly in your computer) and follow the instructions to set up your own theme before you start the journey.
 	You are allowed to choose different types of background colors and grids in this page.
 
 2.	Use ↑ ↓ ← → to move your snake towards different directions or simply click your mouse
