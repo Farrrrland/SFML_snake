@@ -4,7 +4,8 @@ ans is based on source code from "https://github.com/jhpy1024/sfSnake"
 
 How to play
 
-1.	Run main.exe (make sure you have sfml2.5 set correctly in your computer & mingw64 for the match version) and follow the instructions to set up your own theme before you start the journey.
+1.	Run main.exe (make sure you have sfml2.5 set correctly in your computer & all the dynamic link library needed for this project) 
+	Then follow the instructions to set up your own theme before you start the journey.
 	You are allowed to choose different types of background colors and grids in this page.
 
 2.	Use ↑ ↓ ← → to move your snake towards different directions or simply click your mouse
@@ -28,7 +29,10 @@ How to play
 
 
 
-
+->
+->
+->
+->
 2020-06-08 添加了课程设计提交的代码说明
 
 源代码在PJ_Snake_with_SFML文件夹中，其中添加了Textures文件夹用于存放程序中所有texture调用的png图片，均通过PhotoShop进行绘制并调整到合适的图像大小以适应程序。
